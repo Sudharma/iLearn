@@ -1,1 +1,3 @@
 Learn how to create fetch and merge
+
+added some updated messages on merge
